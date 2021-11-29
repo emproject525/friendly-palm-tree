@@ -1,5 +1,5 @@
 import React from 'react';
 
-const App = () => <div>Next</div>;
+const App : {} = () : JSX.Element => <div>Next</div>;
 
 export default App;
